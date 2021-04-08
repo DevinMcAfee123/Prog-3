@@ -1,0 +1,17 @@
+		At 970.00 hPa, Delta T: 00.00 C
+		At 969.00 hPa, Delta T: -0.09 C
+		At 941.80 hPa, Delta T: 00.09 C
+		At 925.00 hPa, Delta T: 00.21 C
+		At 910.40 hPa, Delta T: 00.12 C
+		At 879.80 hPa, Delta T: -0.05 C
+		At 850.00 hPa, Delta T: -0.11 C
+		At 821.10 hPa, Delta T: 00.05 C
+		At 820.00 hPa, Delta T: 00.04 C
+		At 792.30 hPa, Delta T: -0.06 C
+		At 764.60 hPa, Delta T: -0.12 C
+		At 737.80 hPa, Delta T: -0.17 C
+		At 715.00 hPa, Delta T: -0.13 C
+		At 702.00 hPa, Delta T: -0.22 C
+		At 700.00 hPa, Delta T: -0.45 C
+
+	Fig 5 Parcel Temperature - Environmental Temperature
